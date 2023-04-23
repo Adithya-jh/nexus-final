@@ -1,4 +1,5 @@
-# music-app
+# Resource sharing application
+
 
 ## Project setup
 ```
